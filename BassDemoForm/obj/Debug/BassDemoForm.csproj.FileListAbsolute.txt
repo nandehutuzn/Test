@@ -9,3 +9,14 @@ E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.Properties.
 E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.csproj.GenerateResource.Cache
 E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.exe
 E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.pdb
+E:\GitHub\Test-master\Test-master\BassDemoForm\bin\Debug\BassDemoForm.exe.config
+E:\GitHub\Test-master\Test-master\BassDemoForm\obj\Debug\BassDemoForm.exe
+E:\GitHub\Test-master\Test-master\BassDemoForm\obj\Debug\BassDemoForm.pdb
+E:\GitHub\Test-master\Test-master\BassDemoForm\bin\Debug\BassDemoForm.exe
+E:\GitHub\Test-master\Test-master\BassDemoForm\bin\Debug\BassDemoForm.pdb
+E:\GitHub\Test-master\Test-master\BassDemoForm\bin\Debug\Bass.Net.dll
+E:\GitHub\Test-master\Test-master\BassDemoForm\bin\Debug\Bass.Net.xml
+E:\GitHub\Test-master\Test-master\BassDemoForm\obj\Debug\BassDemoForm.csprojResolveAssemblyReference.cache
+E:\GitHub\Test-master\Test-master\BassDemoForm\obj\Debug\BassDemoForm.Form1.resources
+E:\GitHub\Test-master\Test-master\BassDemoForm\obj\Debug\BassDemoForm.Properties.Resources.resources
+E:\GitHub\Test-master\Test-master\BassDemoForm\obj\Debug\BassDemoForm.csproj.GenerateResource.Cache
