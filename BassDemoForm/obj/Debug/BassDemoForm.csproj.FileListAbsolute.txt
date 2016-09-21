@@ -1,0 +1,11 @@
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\bin\Debug\BassDemoForm.exe.config
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\bin\Debug\BassDemoForm.exe
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\bin\Debug\BassDemoForm.pdb
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\bin\Debug\Bass.Net.dll
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\bin\Debug\Bass.Net.xml
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.csprojResolveAssemblyReference.cache
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.Form1.resources
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.Properties.Resources.resources
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.csproj.GenerateResource.Cache
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.exe
+E:\vs2013\小程序\BassDemoForm\BassDemoForm\obj\Debug\BassDemoForm.pdb
